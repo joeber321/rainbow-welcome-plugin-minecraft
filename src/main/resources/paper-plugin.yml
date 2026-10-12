@@ -1,0 +1,5 @@
+name: RainbowWelcome
+version: '1.0.0'
+main: com.example.rainbowwelcome.RainbowWelcome
+api-version: '1.21'
+description: Displays a rainbow welcome message to new players!
